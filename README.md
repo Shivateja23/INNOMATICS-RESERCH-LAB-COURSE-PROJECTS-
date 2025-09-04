@@ -5,3 +5,11 @@ In this i have scrapped the  car details of second hand cars from car wala websi
 
 #### MACHINE LEARNING - BODY PERFORMANCE PROJECT(Regression)
 For this project the data has been collectd from korean sports sponser foundation of athlets. The data consist of physical activities an athlet  was performing with the record of their body health like body fat, height, weight etc.. By considering all this data and trained an machine learning model to predict the Body performance of an person. (Weak, strong, Average, Good)
+
+
+####  MYSQL(Library Management Project)
+Created a Relationship of 7 different tables of the library management data.
+
+
+#### POWER BI DASHBOARD (Telangana Weather Report)
+Builded a powerbi dashboard using the Telangana Weather Report data.
